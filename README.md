@@ -1,2 +1,2 @@
 # ux_prototypes
-A collection of proposed prototypes, patterns, interactions and visual assets, as well as Usability documentation and more for GC Tools 
+Repository for user experience documents such as prototypes, interactive designs, visual design, user flows etc. for the Open, Accessible Digital Workspace.  
