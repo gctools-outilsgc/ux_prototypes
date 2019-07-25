@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#CCE7FF;}
+	.st2{fill:none;stroke:#1078FF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;}
+</style>
+<g id="Duotone">
+	<polygon class="st0" points="2.5,6.5 1,4.5 2.5,3 3.5,1.5 5,1.5 6.5,3 8.5,3 10,4.5 8.5,6.5 	"/>
+	<polygon class="st0" points="15.5,1.5 15.5,11.5 11.5,7.5 7.5,11.5 7.5,15.5 2.5,15.5 0.5,18.5 1.5,18.5 1.5,23.5 7.5,23.5 
+		15.5,23.5 23.5,23.5 23.5,1.5 	"/>
+	<polyline class="st1" points="3.5,23.5 3.5,20.5 5.5,20.5 5.5,23.5 	"/>
+	<polygon class="st1" points="13.5,13.5 9.5,16.5 13.5,16.5 	"/>
+	<polygon class="st1" points="13.5,18.5 9.5,21.5 13.5,21.5 	"/>
+	<polygon class="st1" points="23.5,1.5 15.5,23.5 23.5,23.5 	"/>
+	<polygon class="st2" points="2.5,15.5 0.5,18.5 7.5,18.5 7.5,15.5 	"/>
+	<polyline class="st2" points="7.5,23.5 7.5,11.5 11.5,7.5 15.5,11.5 15.5,23.5 	"/>
+	<polyline class="st2" points="15.5,11.5 15.5,1.5 23.5,1.5 23.5,23.5 	"/>
+	<line class="st2" x1="1.5" y1="18.5" x2="1.5" y2="23.5"/>
+	<line class="st2" x1="7.5" y1="11.5" x2="15.5" y2="11.5"/>
+	<line class="st2" x1="18.5" y1="3.5" x2="18.5" y2="5.5"/>
+	<line class="st2" x1="20.5" y1="3.5" x2="20.5" y2="5.5"/>
+	<line class="st2" x1="18.5" y1="7.5" x2="18.5" y2="9.5"/>
+	<line class="st2" x1="20.5" y1="7.5" x2="20.5" y2="9.5"/>
+	<line class="st2" x1="18.5" y1="11.5" x2="18.5" y2="13.5"/>
+	<line class="st2" x1="20.5" y1="11.5" x2="20.5" y2="13.5"/>
+	<line class="st2" x1="18.5" y1="15.5" x2="18.5" y2="17.5"/>
+	<line class="st2" x1="20.5" y1="15.5" x2="20.5" y2="17.5"/>
+	<rect x="9.5" y="13.5" class="st2" width="4" height="3"/>
+	<rect x="9.5" y="18.5" class="st2" width="4" height="3"/>
+	<line class="st2" x1="18.5" y1="19.5" x2="18.5" y2="21.5"/>
+	<line class="st2" x1="20.5" y1="19.5" x2="20.5" y2="21.5"/>
+	<polyline class="st2" points="3.5,23.5 3.5,20.5 5.5,20.5 5.5,23.5 	"/>
+	<line class="st2" x1="23.5" y1="23.5" x2="1.5" y2="23.5"/>
+	<polygon class="st2" points="2.5,6.5 1,4.5 2.5,3 3.5,1.5 5,1.5 6.5,3 8.5,3 10,4.5 8.5,6.5 	"/>
+</g>
+<g id="Frames-24px">
+	<rect class="st3" width="24" height="24"/>
+</g>
+</svg>

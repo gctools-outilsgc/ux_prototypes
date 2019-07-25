@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Black">
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="8.5" y1="7.5" x2="14.5" y2="7.5"/>
+			
+				<rect x="0.5" y="4.5" fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="22" height="16"/>
+			<polygon fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="8.5,7.5 
+				10,10.5 8.5,13.5 4.5,13.5 3,10.5 4.5,7.5 			"/>
+			
+				<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="8.5" y1="13.5" x2="14.5" y2="13.5"/>
+			<polyline fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				6.5,20.5 8.5,17.5 14.5,17.5 16.5,20.5 			"/>
+			<polygon fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="18.5,7.5 
+				20,10.5 18.5,13.5 14.5,13.5 13,10.5 14.5,7.5 			"/>
+		</g>
+		<g>
+			<path fill="#58595B" d="M6.501,9.5c-0.051,0-0.102,0.019-0.141,0.059L5.56,10.358c-0.078,0.078-0.078,0.205,0,0.283l0.799,0.799
+				c0.039,0.039,0.09,0.059,0.141,0.059s0.102-0.02,0.141-0.059l0.799-0.799c0.078-0.078,0.078-0.205,0-0.283L6.642,9.559
+				C6.603,9.519,6.552,9.5,6.501,9.5L6.501,9.5z"/>
+		</g>
+		<g>
+			<path fill="#58595B" d="M16.499,9.501c-0.051,0-0.102,0.02-0.141,0.059l-0.799,0.799c-0.078,0.078-0.078,0.205,0,0.283
+				l0.799,0.799c0.039,0.039,0.09,0.059,0.141,0.059c0.051,0,0.102-0.019,0.141-0.059l0.799-0.799c0.078-0.078,0.078-0.205,0-0.283
+				L16.641,9.56C16.602,9.521,16.551,9.501,16.499,9.501L16.499,9.501z"/>
+		</g>
+	</g>
+</g>
+<g id="Frames-24px">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <title>movie-camera-2</title>
+  <g id="Duotone">
+    <polygon points="4.25 11.5 1.5 6.5 4.25 1.5 9.75 1.5 12.5 6.5 9.75 11.5 4.25 11.5" fill="#fff"/>
+    <polygon points="15.75 11.5 14 8.5 15.75 5.5 19.25 5.5 21 8.5 19.25 11.5 15.75 11.5" fill="#fff"/>
+    <rect x="5.5" y="13.5" width="11" height="6" fill="#fff"/>
+    <polygon points="16.5 16.498 21.5 13.5 21.5 19.5 16.5 16.498" fill="#fff"/>
+    <path d="M21.5,16.5v3l-5-3S21.469,16.469,21.5,16.5Z" fill="#cce7ff"/>
+    <rect x="5.5" y="16.5" width="11" height="3" fill="#cce7ff"/>
+    <polygon points="19.25 5.5 15.75 11.5 19.25 11.5 21 8.5 19.25 5.5" fill="#cce7ff"/>
+    <polygon points="9.75 1.5 4.25 11.5 9.75 11.5 12.5 6.5 9.75 1.5" fill="#cce7ff"/>
+    <polygon points="4.25 11.5 1.5 6.5 4.25 1.5 9.75 1.5 12.5 6.5 9.75 11.5 4.25 11.5" fill="none" stroke="#1078ff" stroke-linejoin="round"/>
+    <polygon points="15.75 11.5 14 8.5 15.75 5.5 19.25 5.5 21 8.5 19.25 11.5 15.75 11.5" fill="none" stroke="#1078ff" stroke-linejoin="round"/>
+    <rect x="5.5" y="13.5" width="11" height="6" fill="none" stroke="#1078ff" stroke-linejoin="round"/>
+    <polyline points="6.5 23.5 10.5 19.5 14.5 23.5" fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="16.5 16.498 21.5 13.5 21.5 19.5 16.5 16.498" fill="none" stroke="#1078ff" stroke-linejoin="round"/>
+    <path d="M7,5.5a.2.2,0,0,0-.141.059l-.8.8a.2.2,0,0,0,0,.283l.8.8a.2.2,0,0,0,.283,0l.8-.8a.2.2,0,0,0,0-.283l-.8-.8A.2.2,0,0,0,7,5.5Z" fill="#1078ff"/>
+    <path d="M17.5,7.5a.2.2,0,0,0-.141.059l-.8.8a.2.2,0,0,0,0,.283l.8.8a.2.2,0,0,0,.283,0l.8-.8a.2.2,0,0,0,0-.283l-.8-.8A.2.2,0,0,0,17.5,7.5Z" fill="#1078ff"/>
+  </g>
+  <g id="Frames-24px">
+    <rect width="24" height="24" fill="none"/>
+  </g>
+</svg>

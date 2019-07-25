@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Black">
+	<g>
+		<g>
+			<rect x="2.5" y="7.5" fill="none" stroke="#58595B" stroke-linejoin="round" stroke-miterlimit="10" width="18" height="15"/>
+			<polyline fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="8,4 
+				11.5,7.498 15,4 			"/>
+			
+				<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="3.5" y1="22.5" x2="3.5" y2="23.5"/>
+			
+				<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="19.5" y1="22.5" x2="19.5" y2="23.5"/>
+			
+				<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="2.5" y1="19.499" x2="20.5" y2="16.499"/>
+			
+				<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16.5" y1="2.5" x2="17.5" y2="1.5"/>
+			
+				<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="6.5" y1="2.5" x2="5.5" y2="1.5"/>
+			<g>
+				
+					<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="15" y1="10" x2="18" y2="13"/>
+				
+					<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="17.5" y1="9.5" x2="18.5" y2="10.5"/>
+			</g>
+		</g>
+		<g>
+			<path fill="#58595B" d="M17.999,19.001c-0.051,0-0.102,0.02-0.141,0.059l-0.799,0.799c-0.078,0.078-0.078,0.205,0,0.283
+				l0.799,0.799C17.897,20.98,17.948,21,17.999,21c0.051,0,0.102-0.02,0.141-0.059l0.799-0.799c0.078-0.078,0.078-0.205,0-0.283
+				l-0.799-0.799C18.102,19.021,18.051,19.001,17.999,19.001L17.999,19.001z"/>
+		</g>
+	</g>
+</g>
+<g id="Frames-24px">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

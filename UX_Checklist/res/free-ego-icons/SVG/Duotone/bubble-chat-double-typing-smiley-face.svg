@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <title>bubble-chat-double-typing-smiley-face-3</title>
+  <g id="Duotone">
+    <polygon points="18.5 11.5 18.5 1.5 0.5 1.5 0.5 18.5 4.5 14.5 8.5 14.5 10.5 14.5 10.5 20.5 19.5 20.5 22.5 23.5 22.5 11.5 18.5 11.5" fill="#fff"/>
+    <polygon points="20 19 10.5 19 10.5 20.5 19.5 20.5 22.5 23.5 22.5 21.5 20 19" fill="#cce7ff"/>
+    <g>
+      <g>
+        <polyline points="6 8 7.5 9.5 11.5 9.5 13 8" fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="7.5" y1="4.5" x2="7.5" y2="5.378" fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="11.5" y1="4.5" x2="11.5" y2="5.378" fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <g>
+        <polyline points="8.5 14.5 4.5 14.5 0.5 18.5 0.5 1.5 18.5 1.5 18.5 9.5" fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <polygon points="22.5 11.5 10.5 11.5 10.5 20.5 19.5 20.5 22.5 23.5 22.5 11.5" fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <g>
+        <path d="M14.565,15.266h0M14,14.5a.2.2,0,0,0-.141.059l-.8.8a.2.2,0,0,0,0,.283l.8.8a.2.2,0,0,0,.283,0l.8-.8a.2.2,0,0,0,0-.283l-.8-.8A.2.2,0,0,0,14,14.5Z" fill="#1078ff"/>
+        <path d="M17.566,15.266h0M17,14.5a.2.2,0,0,0-.141.059l-.8.8a.2.2,0,0,0,0,.283l.8.8a.2.2,0,0,0,.283,0l.8-.8a.2.2,0,0,0,0-.283l-.8-.8A.2.2,0,0,0,17,14.5Z" fill="#1078ff"/>
+        <path d="M20.566,15.266h0M20,14.5a.2.2,0,0,0-.141.059l-.8.8a.2.2,0,0,0,0,.283l.8.8a.2.2,0,0,0,.283,0l.8-.8a.2.2,0,0,0,0-.283l-.8-.8A.2.2,0,0,0,20,14.5Z" fill="#1078ff"/>
+      </g>
+    </g>
+  </g>
+  <g id="Frames-24px">
+    <rect width="24" height="24" fill="none"/>
+  </g>
+</svg>

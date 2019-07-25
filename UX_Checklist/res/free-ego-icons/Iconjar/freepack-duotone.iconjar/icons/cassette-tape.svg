@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <title>cassette-tape-1</title>
+  <g id="Duotone">
+    <rect x="0.5" y="4.5" width="22" height="16" fill="#fff"/>
+    <polygon points="3 10.5 4.5 13.5 18.5 13.5 20 10.5 3 10.5" fill="#cce7ff"/>
+    <g>
+      <polygon points="0.5 18 0.5 20.5 6.5 20.5 8.167 18 0.5 18" fill="#cce7ff"/>
+      <polygon points="14.833 18 16.5 20.5 22.5 20.5 22.5 18 14.833 18" fill="#cce7ff"/>
+    </g>
+    <line x1="8.5" y1="7.5" x2="14.5" y2="7.5" fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="0.5" y="4.5" width="22" height="16" fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="8.5 7.5 10 10.5 8.5 13.5 4.5 13.5 3 10.5 4.5 7.5 8.5 7.5" fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="8.5" y1="13.5" x2="14.5" y2="13.5" fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="6.5 20.5 8.5 17.5 14.5 17.5 16.5 20.5 6.5 20.5" fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="18.5 7.5 20 10.5 18.5 13.5 14.5 13.5 13 10.5 14.5 7.5 18.5 7.5" fill="none" stroke="#1078ff" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M6.5,9.5a.2.2,0,0,0-.141.059l-.8.8a.2.2,0,0,0,0,.283l.8.8a.2.2,0,0,0,.283,0l.8-.8a.2.2,0,0,0,0-.283l-.8-.8A.2.2,0,0,0,6.5,9.5Z" fill="#1078ff"/>
+    <path d="M16.5,9.5a.2.2,0,0,0-.141.059l-.8.8a.2.2,0,0,0,0,.283l.8.8a.2.2,0,0,0,.283,0l.8-.8a.2.2,0,0,0,0-.283l-.8-.8A.2.2,0,0,0,16.5,9.5Z" fill="#1078ff"/>
+  </g>
+  <g id="Frames-24px">
+    <rect width="24" height="24" fill="none"/>
+  </g>
+</svg>
